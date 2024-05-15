@@ -1,0 +1,31 @@
+{
+  "values": [
+    "mukis_extra_banners:top_keystone_down",
+    "mukis_extra_banners:top_keystone_up",
+    "mukis_extra_banners:bottom_keystone_down",
+    "mukis_extra_banners:bottom_keystone_up",
+    "mukis_extra_banners:25_fade",
+    "mukis_extra_banners:gradient_left",
+    "mukis_extra_banners:gradient_right",
+    "mukis_extra_banners:bordure_corners",
+    "mukis_extra_banners:bordure_center",
+    "mukis_extra_banners:billet_center",
+    "mukis_extra_banners:billet_bottom",
+    "mukis_extra_banners:billet_top",
+    "mukis_extra_banners:billet_left",
+    "mukis_extra_banners:billet_right",
+    "mukis_extra_banners:left_chevron",
+    "mukis_extra_banners:right_chevron",
+    "mukis_extra_banners:left_indented",
+    "mukis_extra_banners:right_indented",
+    "mukis_extra_banners:quad_bezants",
+    "mukis_extra_banners:checkered",
+    "mukis_extra_banners:checkered_inverted",
+    "mukis_extra_banners:bend_tilted",
+    "mukis_extra_banners:bend_tilted_sinister",
+    "mukis_extra_banners:quarter_top_left",
+    "mukis_extra_banners:quarter_top_right",
+    "mukis_extra_banners:quarter_bottom_left",
+    "mukis_extra_banners:quarter_bottom_right"
+  ]
+}
